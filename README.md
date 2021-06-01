@@ -3,7 +3,7 @@ Extend Django User Model
 <br>
 A Full Account App
 
-<b>
+<br>
   <h3>
   اولین قدم برای شروع یک پروژه، پیاده‌سازی زیرساخت اپلیکیشن یوزر هست.
   </h3>
@@ -14,8 +14,9 @@ A Full Account App
   
 <hr>
 <br>
-
+<div dir="rtl">
 در این اپلیکیشن تمامی تاریخ‌ها به شمسی تغییر پیدا کرده است. پس لازمه پکیج django-jalali را نصب کنید
+</div>
 <br>
 <div class="highlight highlight-source-shell">
   <pre>$ pip install django-jalali</pre>
