@@ -30,7 +30,7 @@ A Full Account App
 </div>
 <br>
 <div class="highlight highlight-source-shell">
-  <pre>django_jalali</pre>
+  <pre>'django_jalali',</pre>
 </div>
 
 <br>
