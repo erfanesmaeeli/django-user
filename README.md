@@ -1,5 +1,6 @@
 # django-user
 Extend Django User Model
+<br>
 A Full Account App
 
 <b>
