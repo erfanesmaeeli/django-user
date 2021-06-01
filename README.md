@@ -31,8 +31,9 @@ A Full Account App
 <br>
 
 
-
+<div dir="rtl">
 در آخر با دستور زیر جداول مایگیریشن را در دیتابیس ایجاد میکنیم
+</div>
 <br>
 <div class="highlight highlight-source-shell">
   <pre>$ python manage.py migrate
