@@ -25,7 +25,12 @@ A Full Account App
 
 <br>
 <div dir="rtl">
- سپس آنرا به INSTALLED_APPS اضافه کنید
+ سپس آنرا به INSTALLED_APPS اضافه کنید.
+  <small>بهتر است آنرا قبل از سایر اپلیکیشن‌ها تعریف کنید.</small>
+</div>
+<br>
+<div class="highlight highlight-source-shell">
+  <pre>django_jalali</pre>
 </div>
 
 <br>
