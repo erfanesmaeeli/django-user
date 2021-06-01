@@ -4,6 +4,7 @@ Extend Django User Model
 A Full Account App
 
 <br>
+<div dir="rtl">
   <h3>
   اولین قدم برای شروع یک پروژه، پیاده‌سازی زیرساخت اپلیکیشن یوزر هست.
   </h3>
@@ -11,7 +12,7 @@ A Full Account App
 <blockquote>
   در این پروژه سعی کردم یک اپلیکیشن کامل برای کاربر ایجاد کنم که حداقلیات را داشته باشد و بتوانیم با خیال راحت داخل پروژه‌هامون استفاده کنیم و اگر نیاز به موارد بیشتر هست میتوانیم بعدا به آن اضافه کنیم
 </blockquote>
-  
+  </div>
 <hr>
 <br>
 <div dir="rtl">
@@ -23,9 +24,9 @@ A Full Account App
 </div>
 
 <br>
-
+<div dir="rtl">
  سپس آنرا به INSTALLED_APPS اضافه کنید
-
+</div>
 
 <br>
 
