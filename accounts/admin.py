@@ -12,7 +12,7 @@ class UserAdmin(AbstractUserAdmin):
 		 'get_date_joined', 'is_active', 'is_superuser']
 	list_filter = ['is_active', 'is_superuser']
 	search_fields = ['username', 'first_name', 'last_name', 'email']
-	readonly_fields = ['date_joined', 'date_updated', 'last_login']
+	readonly_fields = ['date_joined', 'last_update', 'last_login']
 	list_display_links = ['username']
 	list_editable = []
 	ordering = []
@@ -40,7 +40,7 @@ class UserAdmin(AbstractUserAdmin):
             )
         }),
 
-        ('تاریخ‌های مهم', {'fields': ('date_joined', 'date_updated', 'last_login')})
+        ('تاریخ‌های مهم', {'fields': ('date_joined', 'last_update', 'last_login')})
 	)
 
 	add_fieldsets = (
